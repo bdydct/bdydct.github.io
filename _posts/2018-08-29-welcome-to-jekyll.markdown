@@ -6,4 +6,4 @@ categories: Prova
 ---
 Prova.
 
-$$ x_t $$ and $$\theta_t$$.
+$ x_t $ and $$ \theta_t $$.
